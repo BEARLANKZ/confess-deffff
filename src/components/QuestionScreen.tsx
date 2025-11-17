@@ -20,6 +20,7 @@ function QuestionScreen({ userName, onYesClick }: QuestionScreenProps) {
     "Ayolah pleasee...",
     "Masa iya sih?",
     "Gabisa klik aku!",
+    "Gabisaa Wleeeeee....", 
   ];
 
   useEffect(() => {
