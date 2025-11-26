@@ -63,7 +63,7 @@ function SuccessScreen({ userName }: SuccessScreenProps) {
             </h1>
 
             <p className="text-2xl md:text-3xl text-gray-700 font-semibold leading-relaxed">
-              You just made my day — and maybe my life
+              You just made my day, and maybe my life..
             </p>
 
             <div className="mt-12 flex justify-center gap-3 flex-wrap">
